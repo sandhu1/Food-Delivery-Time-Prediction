@@ -94,3 +94,4 @@ To further enhance the project, the following improvements can be considered:
 ---
 
 ## **Project Structure**
+Food_Delivery_Time_Prediction/ │ ├── data/ │ ├── train.csv # Dataset used for training and testing │ ├── notebooks/ │ ├── Food Delivery Prediction.ipynb # Data preprocessing and feature engineering │ ├── model_training.ipynb # Model training and evaluation │ ├── app/ │ ├── app.py # Streamlit application script │ ├── requirements.txt # Python dependencies ├── README.md # Project documentation └── LICENSE # License file
